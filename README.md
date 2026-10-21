@@ -12,7 +12,8 @@ Diese Version ist eine frühe Beta und für Tests auf echter AmigaOS-4.1-Hardwar
 - Erste Tests auf einem Pegasos II.
 - Erste Anpassungen für AmigaOS-spezifische Dateipfade.
 - Die Original-Spieldaten von Theme Hospital werden benötigt und müssen separat bereitgestellt werden.
-
+Support und anfragen bitte auf A1k stellen:
+https://www.a1k.org/forum/index.php?threads/98827/
 ## Voraussetzungen
 
 - AmigaOS 4.1 auf einem unterstützten PowerPC-System.
@@ -63,6 +64,9 @@ This is an early beta release intended for testing on real AmigaOS 4.1 hardware.
 - Initial testing on a Pegasos II.
 - Initial adaptations for AmigaOS-specific file paths.
 - The original *Theme Hospital* game data is required and must be supplied separately.
+For support and inquiries, please use the A1k forum:
+
+https://www.a1k.org/forum/index.php?threads/98827/
 
 ## Requirements
 
